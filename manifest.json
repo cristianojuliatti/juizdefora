@@ -1,8 +1,8 @@
 {
  "name": "Juiz de Fora",
  "description": "Capela Juiz de Fora - 503-0307",
+ "theme_color": "#FFFFFF",
  "start_url": "index.htm",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF"
+ "display": "fullscreen",
+ "background_color": "#FFFFFF"
 }
